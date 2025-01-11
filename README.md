@@ -2,7 +2,7 @@
 
 Welcome to the repository for our **E-Commerce Alcohol Business Analysis**! This project focuses on analyzing website traffic, user behavior, and product performance to uncover actionable insights and drive business growth. 
 <p align="center">
-<img src="Images/Logo.jpg" alt="Company Logo" width="350">
+<img src="Assests/Logo.jpg" alt="Company Logo" width="350">
 
 
 ---
@@ -15,6 +15,20 @@ This analysis dives into:
 - Product performance (Ironbark Ale & Emberstone Whiskey)
 - Seasonal traffic insights
 - Areas of improvement to enhance the customer experience
+
+---
+
+## 📂 **Dataset**
+This dataset contains 6 tables that track website activity:
+
+- `Sessions`: Information about user sessions, including session ID, date, source and device.
+- `Pageviews`: Details of pages viewed during sessions, including page URL and date.
+- `Products`: Data about products, such as product ID, name and launch date.
+- `Orders`: Customer orders, including order ID, total amount, and cost of goods.
+- `Items`: Products within orders, including product ID, quantity, and price.
+- `Refunds`: Refund transactions, with order ID and refund amount.
+
+<img src="Assests/ERD.jpg" alt="erd" width="350">
 
 ---
 
