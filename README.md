@@ -2,7 +2,7 @@
 
 Welcome to the repository for our **E-Commerce Alcohol Business Analysis**! This project focuses on analyzing website traffic, user behavior, and product performance to uncover actionable insights and drive business growth. 
 <p align="center">
-<img src="Assests/Logo.jpg" alt="Company Logo" width="350">
+<img src="Docs/Logo.jpg" alt="Company Logo" width="350">
 
 
 ---
@@ -28,7 +28,7 @@ This dataset contains 6 tables that track website activity:
 - `Items`: Products within orders, including product ID, quantity, and price.
 - `Refunds`: Refund transactions, with order ID and refund amount.
 
-<img src="Assests/ERD.jpg" alt="erd" width="350">
+<img src="Docs/ERD.jpg" alt="erd" width="350">
 
 ---
 
