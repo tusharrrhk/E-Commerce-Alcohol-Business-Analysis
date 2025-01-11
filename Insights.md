@@ -1,12 +1,8 @@
-# Insights: E-commerce Website Traffic Analysis  
+# Insights
 
 This analysis aims to uncover actionable insights based on user interactions, pages viewed, products purchased, and products refunded.  
 
----
-
-## A. Session and User Level  
-
-### Key Insights  
+<br>
 
 1. **Traffic Source and Device Usage:**  
    - The majority of traffic originates from Google non-branded sessions using desktop devices, with over 50,000 sessions contributing significantly to overall traffic.  
