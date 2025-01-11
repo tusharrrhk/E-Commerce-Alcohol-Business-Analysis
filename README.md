@@ -2,7 +2,7 @@
 
 Welcome to the repository for our **E-Commerce Alcohol Business Analysis**! This project focuses on analyzing website traffic, user behavior, and product performance to uncover actionable insights and drive business growth. 
 
-![Company Logo](Logo.png "Company Logo")
+![Company Logo](Logo.jpg "Company Logo")
 
 ---
 
