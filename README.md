@@ -48,7 +48,7 @@ This dataset contains 6 tables that track website activity:
  - Ironbark Ale has the highest refund rate (6.62%), while Emberstone Whiskey performs well with low refunds and higher conversions.
  - Cart abandonment is a major issue, with 58% of users dropping off at this stage.
 
-For the full set of recommendations, refer to the [Insights document](./Insights.md).
+For the full set of insights, refer to the [Insights document](./Insights.md).
 
 ---
 
