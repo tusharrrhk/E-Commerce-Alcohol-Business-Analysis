@@ -43,10 +43,10 @@ This analysis aims to uncover actionable insights based on user interactions, pa
    - Major drop-off points in the conversion funnel include `/home`, `/Ironbark Ale`, and `/billing`.  
 
 8. **Page Optimizations:**  
-   - The `/billing-1` page, launched on 2012-09-10, achieved a 61% conversion rate compared to 45% for the previous `/billing` page.  
+   - The `/billing-1` page, launched on *2012-09-10*, achieved a 61% conversion rate compared to 45% for the previous `/billing` page.  
 
 9. **Post-Launch Impact of Emberstone Whiskey:**  
-   - Launched on 2012-01-06, it significantly increased sessions-to-orders conversion rates from 4.76% to 6.5%.  
+   - Launched on *2012-01-06*, it significantly increased sessions-to-orders conversion rates from 4.76% to 6.5%.  
    - Revenue per session doubled after its launch.  
    - Sessions typically originate from the Ironbark Ale page, driving traffic to the Emberstone Whiskey page.  
 
