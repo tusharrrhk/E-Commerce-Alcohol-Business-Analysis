@@ -27,8 +27,8 @@ This dataset contains 6 tables that track website activity:
 - `Orders`: Customer orders, including order ID, total amount, and cost of goods.
 - `Items`: Products within orders, including product ID, quantity, and price.
 - `Refunds`: Refund transactions, with order ID and refund amount.
-
-<img src="Docs/ERD.jpg" alt="erd" width="350">
+<p align="center">
+<img src="Docs/ERD.jpg" alt="erd" height="400" width="600">
 
 ---
 
