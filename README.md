@@ -19,7 +19,7 @@ This analysis dives into:
 ---
 
 ## 📂 **Dataset**
-This dataset contains 6 tables that track website activity:
+This dataset consists of 6 custom-generated tables that track website activity, capturing user interactions, session details, and engagement metrics.
 
 - `Sessions`: Information about user sessions, including session ID, date, source and device.
 - `Pageviews`: Details of pages viewed during sessions, including page URL and date.
